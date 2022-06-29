@@ -1,0 +1,42 @@
+delhi:
+
+news source 1 : http://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms
+ERROR (while getting article): b'https://timesofindia.indiatimes.com/blogs/voices/communicating-sexual-needs-challenges-faced-by-couples/'
+Articles scraped : 19
+
+news source 2 : 
+Articles scraped : 0
+
+
+jaipur:
+
+news source 1 : 
+Articles scraped : 0
+
+news source 2 : http://timesofindia.indiatimes.com/rssfeeds/3012544.cms
+ERROR (while getting article): b'https://timesofindia.indiatimes.com/city/jaipur/tv-studio-at-ru-in-shambles-absence-of-faculties-key-reason/articleshow/92530169.cms'
+Articles scraped : 19
+
+
+bangalore:
+
+news source 1 : http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms
+ERROR (while getting article): b'https://timesofindia.indiatimes.com/blogs/voices/communicating-sexual-needs-challenges-faced-by-couples/'
+Articles scraped : 19
+
+
+mumbai:
+
+news source 1 : http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms
+ERROR (while getting article): b'https://timesofindia.indiatimes.com/city/mumbai/maharashtra-mumbai-news-live-updates-covid-cases-building-collapse-thane-bmc-weather-shivsainiks-june-29/liveblog/92528025.cms'
+ERROR (while getting article): b'https://timesofindia.indiatimes.com/blogs/voices/communicating-sexual-needs-challenges-faced-by-couples/'
+ERROR (while getting article): b'https://timesofindia.indiatimes.com/mumbai-building-collapse-photos-of-rescue-operation/photostory/92513197.cms'
+ERROR (while getting article): b'https://timesofindia.indiatimes.com/city/mumbai/maharashtra-mumbai-news-live-updates-covid-cases-thane-bmc-weather-shivsainiks-june-28/liveblog/92499510.cms'
+Articles scraped : 16
+
+news source 2 : 
+Articles scraped : 0
+
+
+
+Total articles scraped : 73
